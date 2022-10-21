@@ -1,1 +1,1 @@
-The code is related to 'Improved Neural Distinguishers with Multi-Round and Multi-Splicing Construction'.
+The code is related to 'MILP-Based differential cryptanalysis and linear cryptanalysis on ANU'.
